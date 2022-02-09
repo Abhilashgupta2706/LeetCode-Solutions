@@ -1,7 +1,7 @@
 # LeetCode Solutions <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Skills.gif' alt='skills' height='30'>
 
 ### About
-I created this repository to share LeetCode's Problem's Solution with everyone. I Started solving the LeetCode problem after a few days of DSA in Python. Solving these problems helps me to improve my coding 🧑🏻‍💻 skills.
+I created this repository to share LeetCode's Problem's Solution (in Python) with everyone. I Started solving the LeetCode problem after a few days of DSA in Python. Solving these problems helps me to improve my coding 🧑🏻‍💻 skills.
 
 If my solution needs to be improved or there is another way to solve the problem, please let me know 😊
 
